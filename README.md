@@ -26,6 +26,8 @@
 - JavaScript
 - Python
 - Java
+- AWS
+- Azure
 - Selenium
 - Postman
 - SQL
