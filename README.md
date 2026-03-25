@@ -33,10 +33,8 @@
 
 ---
 
-## 📊 GitHub Stats:
-![AshmitaKayastha's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshmitaKayastha&show_icons=true&theme=radical&hide=stars,issues,contribs)
+
 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshmitaKayastha&layout=compact&theme=radical)
-## 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="400"/>
+"400"/>
