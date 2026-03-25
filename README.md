@@ -27,6 +27,8 @@
 - Python
 - Java
 - AWS
+- Machine Learning
+- AI
 - Azure
 - Selenium
 - Postman
