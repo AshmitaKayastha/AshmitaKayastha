@@ -34,6 +34,7 @@
 - Postman
 - SQL
 - Git & GitHub
+- Playwright
 
 ---
 
