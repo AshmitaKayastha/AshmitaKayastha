@@ -23,18 +23,65 @@
 ---
 
 ## 💻 Tech Stack:
-- JavaScript
-- Python
-- Java
-- AWS
-- Machine Learning
-- AI
-- Azure
-- Selenium
-- Postman
-- SQL
-- Git & GitHub
-- Playwright
+
+### 🧪 QA & Testing
+
+* Manual Testing (Functional, Regression, Smoke, Sanity, UAT)
+* Test Case Design & Execution
+* Bug Tracking & Reporting (JIRA, Bugzilla)
+
+### 🤖 Automation Testing
+
+* Playwright
+* Selenium WebDriver
+* TestNG / PyTest
+* Page Object Model (POM)
+
+### 🔗 API & Performance Testing
+
+* Postman (API Testing)
+* REST API Testing
+* JSON Validation
+* JMeter (Performance & Load Testing)
+
+### 💻 Programming Languages
+
+* JavaScript
+* Python
+* Java
+
+### 🗄️ Database
+
+* SQL (MySQL, PostgreSQL, BigQuery basics)
+
+### ☁️ Cloud & Tools
+
+* AWS 
+* Azure 
+* Google Cloud Platform (GCP - BigQuery exposure)
+
+### 🔄 DevOps & Version Control
+
+* Git & GitHub
+* CI/CD Basics (GitHub Actions)
+
+### 📊 Data & AI (Bonus Skills)
+
+* Machine Learning Basics
+* AI Concepts
+* Data Validation in Pipelines
+
+### 📋 Project Management & Collaboration
+
+* Agile / Scrum Methodology
+* Trello
+* JIRA
+
+### 🧰 Other Tools & Skills
+
+* Docker (Basics)
+* Test Reporting & Documentation
+
 
 ---
 
